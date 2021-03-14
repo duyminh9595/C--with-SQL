@@ -1,0 +1,11 @@
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\bin\Debug\Exam_SQLConnection_DAO.exe.config
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\bin\Debug\Exam_SQLConnection_DAO.exe
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\bin\Debug\Exam_SQLConnection_DAO.pdb
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\bin\Debug\DataLayer.dll
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\bin\Debug\DataLayer.pdb
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.csprojResolveAssemblyReference.cache
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.Form1.resources
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.Properties.Resources.resources
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.csproj.GenerateResource.Cache
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.exe
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam_SQLConnection_DAO\Exam_SQLConnection_DAO\obj\Debug\Exam_SQLConnection_DAO.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_SQLConnection_DAO", "Exam_SQLConnection_DAO\Exam_SQLConnection_DAO.csproj", "{3E2274B8-0081-4486-8064-A97EF7EB8E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{99699F0E-ADDD-41A2-A49A-B99B9455055B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2274B8-0081-4486-8064-A97EF7EB8E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2274B8-0081-4486-8064-A97EF7EB8E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2274B8-0081-4486-8064-A97EF7EB8E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2274B8-0081-4486-8064-A97EF7EB8E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99699F0E-ADDD-41A2-A49A-B99B9455055B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99699F0E-ADDD-41A2-A49A-B99B9455055B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99699F0E-ADDD-41A2-A49A-B99B9455055B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99699F0E-ADDD-41A2-A49A-B99B9455055B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

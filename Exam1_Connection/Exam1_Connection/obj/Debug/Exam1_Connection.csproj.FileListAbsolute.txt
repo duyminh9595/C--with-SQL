@@ -1,0 +1,11 @@
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\bin\Debug\Exam1_Connection.exe.config
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\bin\Debug\Exam1_Connection.exe
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\bin\Debug\Exam1_Connection.pdb
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\bin\Debug\DataLayer.dll
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\bin\Debug\DataLayer.pdb
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.csprojResolveAssemblyReference.cache
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.Form1.resources
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.Properties.Resources.resources
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.csproj.GenerateResource.Cache
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.exe
+c:\users\duyminh\documents\visual studio 2013\Projects\Exam1_Connection\Exam1_Connection\obj\Debug\Exam1_Connection.pdb
